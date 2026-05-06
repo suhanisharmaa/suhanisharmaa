@@ -68,15 +68,6 @@ Custom validation checks
 - ⚙️ If it works on first run, I don’t trust it   
 - 🚀 Built for scale, tested in chaos  
 
-## 🧰 Tools I Use
-
-![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
-![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-black?style=flat&logo=apachespark)
-![PySpark](https://img.shields.io/badge/-PySpark-black?style=flat&logo=apachespark)
-![Kafka](https://img.shields.io/badge/-Kafka-black?style=flat&logo=apachekafka)
-![Airflow](https://img.shields.io/badge/-Airflow-black?style=flat&logo=apacheairflow)
-![SQL](https://img.shields.io/badge/-SQL-black?style=flat&logo=postgresql)
-
 ---
 
 ## 🌱 Currently Exploring
