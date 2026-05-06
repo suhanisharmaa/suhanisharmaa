@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&width=600&lines=Hey%2C+I'm+Suhani+%F0%9F%91%8B;Data+Engineer+%7C+Spark+%C2%B7+PySpark+%C2%B7+Kafka;Building+pipelines+that+scale)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&width=435&lines=Hey%2C+I'm+Suhani+%F0%9F%91%8B;Data+Engineer+%7C+Spark+%C2%B7+PySpark+%C2%B7+Kafka;Building+pipelines+that+scale)](https://git.io/typing-svg)
 
 Data Engineer based in India. I build reliable, scalable data pipelines that turn messy raw data into clean, decision-ready infrastructure. I care about performance, observability, and writing code that doesn't fall apart at 2x the volume.
 
